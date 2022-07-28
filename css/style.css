@@ -16,3 +16,13 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+.chaid{
+width: 200px;
+height:200px;
+background: #000;
+}
+.chaid1{
+    width: 200px;
+    height:200px;
+    background: rgb(210, 47, 47);
+}
